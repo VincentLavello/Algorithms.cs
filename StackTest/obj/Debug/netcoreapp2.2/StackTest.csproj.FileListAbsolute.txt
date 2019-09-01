@@ -1,0 +1,11 @@
+C:\Users\Vince\NET_Stack\StackTest\bin\Debug\netcoreapp2.2\StackTest.deps.json
+C:\Users\Vince\NET_Stack\StackTest\bin\Debug\netcoreapp2.2\StackTest.runtimeconfig.json
+C:\Users\Vince\NET_Stack\StackTest\bin\Debug\netcoreapp2.2\StackTest.runtimeconfig.dev.json
+C:\Users\Vince\NET_Stack\StackTest\bin\Debug\netcoreapp2.2\StackTest.dll
+C:\Users\Vince\NET_Stack\StackTest\bin\Debug\netcoreapp2.2\StackTest.pdb
+C:\Users\Vince\NET_Stack\StackTest\obj\Debug\netcoreapp2.2\StackTest.csprojAssemblyReference.cache
+C:\Users\Vince\NET_Stack\StackTest\obj\Debug\netcoreapp2.2\StackTest.csproj.CoreCompileInputs.cache
+C:\Users\Vince\NET_Stack\StackTest\obj\Debug\netcoreapp2.2\StackTest.AssemblyInfoInputs.cache
+C:\Users\Vince\NET_Stack\StackTest\obj\Debug\netcoreapp2.2\StackTest.AssemblyInfo.cs
+C:\Users\Vince\NET_Stack\StackTest\obj\Debug\netcoreapp2.2\StackTest.dll
+C:\Users\Vince\NET_Stack\StackTest\obj\Debug\netcoreapp2.2\StackTest.pdb
